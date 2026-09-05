@@ -31,7 +31,7 @@
     "url": "git+https://github.com/DunCanYounG-1/auto-embedded.git"
   },
   "author": "DuncanY",
-  "license": "MIT",
+  "license": "PolyForm-Noncommercial-1.0.0",
   "bin": {
     "aemb": "dist/cli/index.js"
   },

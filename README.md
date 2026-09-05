@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://www.npmjs.com/package/auto-embedded"><img src="https://img.shields.io/npm/v/auto-embedded.svg?style=flat-square&color=2563eb" alt="npm version" /></a>
 <a href="https://www.npmjs.com/package/auto-embedded"><img src="https://img.shields.io/npm/dw/auto-embedded?style=flat-square&color=cb3837&label=downloads" alt="npm downloads" /></a>
-<a href="https://github.com/DunCanYounG-1/auto-embedded/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-16a34a.svg?style=flat-square" alt="license" /></a>
+<a href="https://github.com/DunCanYounG-1/auto-embedded/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial-16a34a.svg?style=flat-square" alt="license" /></a>
 <a href="https://github.com/DunCanYounG-1/auto-embedded/stargazers"><img src="https://img.shields.io/github/stars/DunCanYounG-1/auto-embedded?style=flat-square&color=eab308" alt="stars" /></a>
 <a href="https://github.com/DunCanYounG-1/auto-embedded/issues"><img src="https://img.shields.io/github/issues/DunCanYounG-1/auto-embedded?style=flat-square&color=e67e22" alt="open issues" /></a>
 <a href="https://github.com/DunCanYounG-1/auto-embedded/pulls"><img src="https://img.shields.io/github/issues-pr/DunCanYounG-1/auto-embedded?style=flat-square&color=9b59b6" alt="open PRs" /></a>
@@ -141,8 +141,16 @@ auto-embedded 用平台钩子和角色化子代理跑一个强约束循环：
 - [npm 包](https://www.npmjs.com/package/auto-embedded)
 - 感谢 [LinuxDo](https://linux.do/) 社区支持
 
+## 许可协议
+
+本项目采用 **PolyForm Noncommercial License 1.0.0**（[LICENSE](https://github.com/DunCanYounG-1/auto-embedded/blob/main/LICENSE) · [官方协议](https://polyformproject.org/licenses/noncommercial/1.0.0)）。
+
+**个人自用、学习研究、教育与公益用途免费**；**任何商业用途须另行获取商业授权**——包括但不限于：盈利性公司在内部使用、把本项目嵌入商业产品或服务、用它承接付费项目等。是否构成"商业用途"以协议的 [Noncommercial Purposes](https://github.com/DunCanYounG-1/auto-embedded/blob/main/LICENSE) 一节为准。
+
+商业授权咨询请通过 [GitHub Issues](https://github.com/DunCanYounG-1/auto-embedded/issues) 联系作者。
+
 <p align="center">
 <a href="https://github.com/DunCanYounG-1/auto-embedded">官方仓库</a> •
-<a href="https://github.com/DunCanYounG-1/auto-embedded/blob/main/LICENSE">MIT 许可证</a> •
+<a href="https://github.com/DunCanYounG-1/auto-embedded/blob/main/LICENSE">PolyForm Noncommercial 1.0.0</a> •
 作者 <a href="https://github.com/DunCanYounG-1">DuncanY</a> · 架构对标 <a href="https://github.com/mindfold-ai/Trellis">Trellis</a>
 </p>

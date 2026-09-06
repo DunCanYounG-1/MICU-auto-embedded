@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>让 AI 编码助手可靠地写嵌入式固件的开箱即用工程框架。</strong><br/>
-<sub>AI 写嵌入式三宗罪：乱猜引脚、上下文断档、空口宣称修好。auto-embedded 一条命令装进你的固件工程——强制五阶段流程、冻结的硬件资源表、落盘的任务记忆、编译/烧录/调试工具技能、80+ 篇离线嵌入式知识库——一次接线，7 个 AI 平台同时生效。</sub>
+<sub>AI 写嵌入式三宗罪：乱猜引脚、上下文断档、空口宣称修好。auto-embedded 一条命令装进你的固件工程——强制五阶段流程、冻结的硬件资源表、落盘的任务记忆、编译/烧录/调试工具技能、110+ 篇离线嵌入式知识库——一次接线，7 个 AI 平台同时生效。</sub>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 | **任务记忆落盘** | 进度、改动、研究发现持久化在 `.auto-embedded/`。新会话自动注入现场、"五问重启"接着干——上下文断档不再杀死任务。 |
 | **证据门禁** | 屏蔽"应该没问题"。必须出示编译输出 / 串口日志 / 手册页码才算完成。 |
 | **项目规范自我进化** | 每个任务收尾把学到的（决策、坑、约定）沉淀回工程规范库，下次自动注入。 |
-| **工具链与知识库内置** | 24 个工具技能（编译/烧录/调试/串口/总线/分析）+ 80+ 篇离线知识库——按工程 profile（芯片/构建/OS 探测）精简装，只给相关的（`aemb profile` 查、`aemb add` 增）——AI 查表干活，不瞎编寄存器。 |
+| **工具链与知识库内置** | 24 个工具技能（编译/烧录/调试/串口/总线/分析）+ 110+ 篇离线知识库——按工程 profile（芯片/构建/OS 探测）精简装，只给相关的（`aemb profile` 查、`aemb add` 增）——AI 查表干活，不瞎编寄存器。 |
 | **7 平台一次接线** | 规则写一次，`aemb init` 按各平台原生语法和钩子机制装进 Claude Code、Cursor、Codex、OpenCode、Copilot、Gemini CLI、Windsurf。 |
 
 ## 前置要求
@@ -140,6 +140,18 @@ auto-embedded 用平台钩子和角色化子代理跑一个强约束循环：
 - [GitHub Issues](https://github.com/DunCanYounG-1/auto-embedded/issues)
 - [npm 包](https://www.npmjs.com/package/auto-embedded)
 - 感谢 [LinuxDo](https://linux.do/) 社区支持
+
+## 支持这个项目
+
+如果 auto-embedded 帮你省下了排查时间，欢迎扫码请我喝杯咖啡 ☕ —— 你的认可是开源项目持续维护的最大动力。
+
+<p align="center">
+<img src="./funding.jpg" alt="赞赏码 — 扫码支持" width="200" />
+</p>
+
+<p align="center">
+<sub>扫码赞赏，感谢支持 ☕</sub>
+</p>
 
 ## 许可协议
 

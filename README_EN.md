@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>An out-of-the-box engineering framework that makes AI coding agents reliable at embedded firmware.</strong><br/>
-<sub>AI agents guess pins, lose track mid-task, and claim "fixed" without evidence. auto-embedded installs a discipline layer into your firmware project — an enforced 5-phase workflow, frozen hardware resources, on-disk task memory, build/flash/debug toolchain skills, and an 80+ article offline embedded knowledge base — delivered to 7 AI coding platforms at once.</sub>
+<sub>AI agents guess pins, lose track mid-task, and claim "fixed" without evidence. auto-embedded installs a discipline layer into your firmware project — an enforced 5-phase workflow, frozen hardware resources, on-disk task memory, build/flash/debug toolchain skills, and a 110+ article offline embedded knowledge base — delivered to 7 AI coding platforms at once.</sub>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 | **On-disk task memory** | Progress, edits, and findings persist in `.auto-embedded/`. New sessions auto-inject the scene and resume via a 5-question restart — context loss stops killing tasks. |
 | **Evidence-gated completion** | "Should work" is blocked. Build output, serial logs, or datasheet page numbers are required before anything is declared done. |
 | **Self-improving project specs** | Each finished task promotes its learnings (decisions, gotchas, conventions) back into the repo's spec library, auto-injected next time. |
-| **Toolchain + knowledge built in** | 24 tool skills (build / flash / debug / serial / bus / analysis) and an 80+ article offline knowledge base — installed as a profile-scoped subset (detected by chip / build / OS; inspect with `aemb profile`, extend with `aemb add`) so the project gets only what's relevant — the AI consults them instead of hallucinating registers. |
+| **Toolchain + knowledge built in** | 24 tool skills (build / flash / debug / serial / bus / analysis) and a 110+ article offline knowledge base — installed as a profile-scoped subset (detected by chip / build / OS; inspect with `aemb profile`, extend with `aemb add`) so the project gets only what's relevant — the AI consults them instead of hallucinating registers. |
 | **7 platforms, one setup** | Write the rules once; `aemb init` wires them into Claude Code, Cursor, Codex, OpenCode, Copilot, Gemini CLI, and Windsurf with each platform's native syntax and hooks. |
 
 ## Prerequisites
@@ -140,6 +140,14 @@ Schematic/PCB design, component selection, soldering, oscilloscope work, and cer
 - [GitHub Issues](https://github.com/DunCanYounG-1/auto-embedded/issues)
 - [npm package](https://www.npmjs.com/package/auto-embedded)
 - Supported by the [LinuxDo](https://linux.do/) community
+
+## Support this project
+
+If auto-embedded saved you time on the bench, feel free to scan the QR below and buy me a coffee ☕ — your appreciation keeps this open-source project maintained.
+
+<p align="center">
+<img src="./funding.jpg" alt="Support — scan to donate" width="200" />
+</p>
 
 ## License
 

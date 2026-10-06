@@ -141,16 +141,10 @@ auto-embedded 用平台钩子和角色化子代理跑一个强约束循环：
 - [npm 包](https://www.npmjs.com/package/auto-embedded)
 - 感谢 [LinuxDo](https://linux.do/) 社区支持
 
-## 支持这个项目
-
-如果 auto-embedded 帮你省下了排查时间，欢迎扫码请我喝杯咖啡 ☕ —— 你的认可是开源项目持续维护的最大动力。
+## 关于作者
 
 <p align="center">
-<img src="./funding.jpg" alt="赞赏码 — 扫码支持" width="200" />
-</p>
-
-<p align="center">
-<sub>扫码赞赏，感谢支持 ☕</sub>
+<img src="./assets/logo-h.svg" alt="米醋电子工作室 MCU Electronics Studio" width="420" />
 </p>
 
 ## 许可协议

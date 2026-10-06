@@ -141,12 +141,10 @@ Schematic/PCB design, component selection, soldering, oscilloscope work, and cer
 - [npm package](https://www.npmjs.com/package/auto-embedded)
 - Supported by the [LinuxDo](https://linux.do/) community
 
-## Support this project
-
-If auto-embedded saved you time on the bench, feel free to scan the QR below and buy me a coffee ☕ — your appreciation keeps this open-source project maintained.
+## About the Author
 
 <p align="center">
-<img src="./funding.jpg" alt="Support — scan to donate" width="200" />
+<img src="./assets/logo-h.svg" alt="MCU Electronics Studio" width="420" />
 </p>
 
 ## License

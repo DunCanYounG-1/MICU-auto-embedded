@@ -1,3 +1,12 @@
+<p align="center">
+<img src="./assets/logo-h.svg" alt="MCU Electronics Studio" width="420" />
+</p>
+
+<p align="center">
+<strong>MICU Embedded + AI Ecosystem</strong><br/>
+Not here to profit from embedded AI — committed to training the next generation of embedded AI engineers.
+</p>
+
 <h1 align="center">auto-embedded</h1>
 
 <p align="center">
@@ -140,12 +149,6 @@ Schematic/PCB design, component selection, soldering, oscilloscope work, and cer
 - [GitHub Issues](https://github.com/DunCanYounG-1/auto-embedded/issues)
 - [npm package](https://www.npmjs.com/package/auto-embedded)
 - Supported by the [LinuxDo](https://linux.do/) community
-
-## About the Author
-
-<p align="center">
-<img src="./assets/logo-h.svg" alt="MCU Electronics Studio" width="420" />
-</p>
 
 ## License
 

@@ -1,3 +1,12 @@
+<p align="center">
+<img src="./assets/logo-h.svg" alt="米醋电子工作室 MCU Electronics Studio" width="420" />
+</p>
+
+<p align="center">
+<strong>米醋嵌入式+AI生态链</strong><br/>
+不为嵌入式AI赚钱，以培养新一代嵌入式AI工程师为己任
+</p>
+
 <h1 align="center">auto-embedded</h1>
 
 <p align="center">
@@ -140,12 +149,6 @@ auto-embedded 用平台钩子和角色化子代理跑一个强约束循环：
 - [GitHub Issues](https://github.com/DunCanYounG-1/auto-embedded/issues)
 - [npm 包](https://www.npmjs.com/package/auto-embedded)
 - 感谢 [LinuxDo](https://linux.do/) 社区支持
-
-## 关于作者
-
-<p align="center">
-<img src="./assets/logo-h.svg" alt="米醋电子工作室 MCU Electronics Studio" width="420" />
-</p>
 
 ## 许可协议
 

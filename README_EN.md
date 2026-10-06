@@ -25,12 +25,12 @@ Not here to profit from embedded AI — committed to training the next generatio
 <p align="center">
 <a href="https://www.npmjs.com/package/auto-embedded"><img src="https://img.shields.io/npm/v/auto-embedded.svg?style=flat-square&color=2563eb" alt="npm version" /></a>
 <a href="https://www.npmjs.com/package/auto-embedded"><img src="https://img.shields.io/npm/dw/auto-embedded?style=flat-square&color=cb3837&label=downloads" alt="npm downloads" /></a>
-<a href="https://github.com/DunCanYounG-1/auto-embedded/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial-16a34a.svg?style=flat-square" alt="license" /></a>
-<a href="https://github.com/DunCanYounG-1/auto-embedded/stargazers"><img src="https://img.shields.io/github/stars/DunCanYounG-1/auto-embedded?style=flat-square&color=eab308" alt="stars" /></a>
-<a href="https://github.com/DunCanYounG-1/auto-embedded/issues"><img src="https://img.shields.io/github/issues/DunCanYounG-1/auto-embedded?style=flat-square&color=e67e22" alt="open issues" /></a>
-<a href="https://github.com/DunCanYounG-1/auto-embedded/pulls"><img src="https://img.shields.io/github/issues-pr/DunCanYounG-1/auto-embedded?style=flat-square&color=9b59b6" alt="open PRs" /></a>
-<a href="https://deepwiki.com/DunCanYounG-1/auto-embedded"><img src="https://img.shields.io/badge/Ask-DeepWiki-blue?style=flat-square" alt="Ask DeepWiki" /></a>
-<a href="https://chatgpt.com/?q=Explain+the+project+DunCanYounG-1/auto-embedded+on+GitHub"><img src="https://img.shields.io/badge/Ask-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="Ask ChatGPT" /></a>
+<a href="https://github.com/DunCanYounG-1/MICU-auto-embedded/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial-16a34a.svg?style=flat-square" alt="license" /></a>
+<a href="https://github.com/DunCanYounG-1/MICU-auto-embedded/stargazers"><img src="https://img.shields.io/github/stars/DunCanYounG-1/MICU-auto-embedded?style=flat-square&color=eab308" alt="stars" /></a>
+<a href="https://github.com/DunCanYounG-1/MICU-auto-embedded/issues"><img src="https://img.shields.io/github/issues/DunCanYounG-1/MICU-auto-embedded?style=flat-square&color=e67e22" alt="open issues" /></a>
+<a href="https://github.com/DunCanYounG-1/MICU-auto-embedded/pulls"><img src="https://img.shields.io/github/issues-pr/DunCanYounG-1/MICU-auto-embedded?style=flat-square&color=9b59b6" alt="open PRs" /></a>
+<a href="https://deepwiki.com/DunCanYounG-1/MICU-auto-embedded"><img src="https://img.shields.io/badge/Ask-DeepWiki-blue?style=flat-square" alt="Ask DeepWiki" /></a>
+<a href="https://chatgpt.com/?q=Explain+the+project+DunCanYounG-1/MICU-auto-embedded+on+GitHub"><img src="https://img.shields.io/badge/Ask-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="Ask ChatGPT" /></a>
 </p>
 
 ## Why auto-embedded?
@@ -142,24 +142,24 @@ Schematic/PCB design, component selection, soldering, oscilloscope work, and cer
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=DunCanYounG-1/auto-embedded&type=Date)](https://star-history.com/#DunCanYounG-1/auto-embedded&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=DunCanYounG-1/MICU-auto-embedded&type=Date)](https://star-history.com/#DunCanYounG-1/MICU-auto-embedded&Date)
 
 ## Community & Resources
 
-- [GitHub Issues](https://github.com/DunCanYounG-1/auto-embedded/issues)
+- [GitHub Issues](https://github.com/DunCanYounG-1/MICU-auto-embedded/issues)
 - [npm package](https://www.npmjs.com/package/auto-embedded)
 - Supported by the [LinuxDo](https://linux.do/) community
 
 ## License
 
-auto-embedded is licensed under the **PolyForm Noncommercial License 1.0.0** ([LICENSE](https://github.com/DunCanYounG-1/auto-embedded/blob/main/LICENSE) · [official](https://polyformproject.org/licenses/noncommercial/1.0.0)).
+auto-embedded is licensed under the **PolyForm Noncommercial License 1.0.0** ([LICENSE](https://github.com/DunCanYounG-1/MICU-auto-embedded/blob/main/LICENSE) · [official](https://polyformproject.org/licenses/noncommercial/1.0.0)).
 
-**Free for personal and noncommercial use** — personal projects, study, research, education, and nonprofit organizations. **Any commercial use requires a separate commercial license**, including internal use at a for-profit company, embedding this software in a commercial product or service, or using it to deliver paid work. What counts as "commercial" is defined by the license's [Noncommercial Purposes](https://github.com/DunCanYounG-1/auto-embedded/blob/main/LICENSE) section.
+**Free for personal and noncommercial use** — personal projects, study, research, education, and nonprofit organizations. **Any commercial use requires a separate commercial license**, including internal use at a for-profit company, embedding this software in a commercial product or service, or using it to deliver paid work. What counts as "commercial" is defined by the license's [Noncommercial Purposes](https://github.com/DunCanYounG-1/MICU-auto-embedded/blob/main/LICENSE) section.
 
-For a commercial license, contact the author via [GitHub Issues](https://github.com/DunCanYounG-1/auto-embedded/issues).
+For a commercial license, contact the author via [GitHub Issues](https://github.com/DunCanYounG-1/MICU-auto-embedded/issues).
 
 <p align="center">
-<a href="https://github.com/DunCanYounG-1/auto-embedded">Official Repository</a> •
-<a href="https://github.com/DunCanYounG-1/auto-embedded/blob/main/LICENSE">PolyForm Noncommercial 1.0.0</a> •
+<a href="https://github.com/DunCanYounG-1/MICU-auto-embedded">Official Repository</a> •
+<a href="https://github.com/DunCanYounG-1/MICU-auto-embedded/blob/main/LICENSE">PolyForm Noncommercial 1.0.0</a> •
 Built by <a href="https://github.com/DunCanYounG-1">DuncanY</a> · Architecture inspired by <a href="https://github.com/mindfold-ai/Trellis">Trellis</a>
 </p>

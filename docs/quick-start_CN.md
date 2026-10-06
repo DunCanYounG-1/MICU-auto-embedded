@@ -21,8 +21,8 @@ Windows 用户注意事项（Git Bash、路径风格等）见 [INSTALL.md](../IN
 npm install -g auto-embedded
 
 # 或从源码
-git clone https://github.com/DunCanYounG-1/auto-embedded
-cd auto-embedded && npm install -g .
+git clone https://github.com/DunCanYounG-1/MICU-auto-embedded
+cd MICU-auto-embedded && npm install -g .
 ```
 
 ## 装进固件工程

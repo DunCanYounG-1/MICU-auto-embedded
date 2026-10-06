@@ -21,8 +21,8 @@ Windows notes (Git Bash, path styles) in [INSTALL.md](../INSTALL.md).
 npm install -g auto-embedded
 
 # Or from source
-git clone https://github.com/DunCanYounG-1/auto-embedded
-cd auto-embedded && npm install -g .
+git clone https://github.com/DunCanYounG-1/MICU-auto-embedded
+cd MICU-auto-embedded && npm install -g .
 ```
 
 ## Install into a firmware project

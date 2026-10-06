@@ -25,10 +25,10 @@
     "embedded-dev",
     "competition"
   ],
-  "homepage": "https://github.com/DunCanYounG-1/auto-embedded",
+  "homepage": "https://github.com/DunCanYounG-1/MICU-auto-embedded",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DunCanYounG-1/auto-embedded.git"
+    "url": "git+https://github.com/DunCanYounG-1/MICU-auto-embedded.git"
   },
   "author": "DuncanY",
   "license": "PolyForm-Noncommercial-1.0.0",

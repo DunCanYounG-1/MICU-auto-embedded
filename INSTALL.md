@@ -13,8 +13,8 @@ npm install -g auto-embedded
 ```
 或从源码（`npm install` 会触发 `prepare` 跑 tsc 编译出 `dist/`）：
 ```bash
-git clone https://github.com/DunCanYounG-1/auto-embedded
-cd auto-embedded
+git clone https://github.com/DunCanYounG-1/MICU-auto-embedded
+cd MICU-auto-embedded
 npm install -g .
 ```
 

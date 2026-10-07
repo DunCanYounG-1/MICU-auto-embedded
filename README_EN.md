@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<strong>MICU Embedded + AI Ecosystem</strong><br/>
+<strong>MICU Embedded AI+</strong><br/>
 Not here to profit from embedded AI — committed to training the next generation of embedded AI engineers.
 </p>
 

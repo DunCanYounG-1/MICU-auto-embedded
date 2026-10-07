@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<strong>米醋嵌入式+AI生态链</strong><br/>
+<strong>米醋嵌入式AI+</strong><br/>
 不为嵌入式AI赚钱，以培养新一代嵌入式AI工程师为己任
 </p>
 

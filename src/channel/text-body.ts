@@ -1,5 +1,6 @@
 /** send/interrupt 的文本体解析：<text> 参数 / --text-file / --stdin（verbatim 自 Trellis）。 */
 import * as fs from "fs";
+import { StringDecoder } from "string_decoder";
 
 export interface ChannelTextBodyOptions {
   text?: string;
@@ -37,8 +38,10 @@ async function readChannelTextBody(opts: ChannelTextBodyOptions): Promise<string
 async function readStdin(): Promise<string> {
   return await new Promise<string>((resolve, reject) => {
     let buf = "";
+    // 管道分块可能落在中文/emoji 的 UTF-8 字节中间，跨块保留未完成的字符。
+    const decoder = new StringDecoder("utf-8");
     const onData = (chunk: Buffer): void => {
-      buf += chunk.toString("utf-8");
+      buf += decoder.write(chunk);
     };
     const cleanup = (): void => {
       process.stdin.off("data", onData);
@@ -47,7 +50,7 @@ async function readStdin(): Promise<string> {
     };
     const onEnd = (): void => {
       cleanup();
-      resolve(buf);
+      resolve(buf + decoder.end());
     };
     const onError = (err: Error): void => {
       cleanup();

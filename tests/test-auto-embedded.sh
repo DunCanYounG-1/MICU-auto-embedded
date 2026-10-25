@@ -15,6 +15,9 @@ echo "== 1) build =="
 npm run build >/dev/null 2>&1 || npx tsc >/dev/null
 CLI=(node dist/cli/index.js)
 
+echo "== 1b) channel 标准输入 UTF-8 分块回归 =="
+node --test tests/channel-text-body.test.cjs || fail "channel stdin UTF-8 回归失败"
+
 TMP=$(mktemp -d); trap 'rm -rf "$TMP"' EXIT
 echo "== 2) init --all（7 平台）=="
 "${CLI[@]}" init "$TMP" -u tester --all >/dev/null
